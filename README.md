@@ -105,7 +105,7 @@ docker-compose up --build
 - `GET /api/v1/integrations/google-books/search?query=...` - Поиск книг
 - `GET /api/v1/integrations/google-books/isbn/{isbn}` - Получить книгу по ISBN
 
-## 🧪 Тестирование
+## Тестирование
 
 Запуск тестов:
 
